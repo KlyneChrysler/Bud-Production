@@ -1,6 +1,6 @@
 # Bud: Offline AI Companion
 
-Chat with open-source AI models on your phone. No account, no subscription. Models run on-device using [llama.cpp](https://github.com/ggml-org/llama.cpp).
+Chat with open-source AI models on your phone. No account, no subscription. Models run on-device.
 
 ## Download
 
@@ -37,7 +37,6 @@ iOS requires sideloading. Use one of these free tools:
 
 Free Apple IDs need re-sideloading every 7 days. Paid developer accounts last 1 year.
 
-**Note:** On-device AI inference on iOS has not been fully tested. The app installs and the UI works, but model loading via llama.cpp on iOS is unverified. Android is the recommended platform for running local models.
 
 ## First Launch
 
